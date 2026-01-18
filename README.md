@@ -1,5 +1,5 @@
 # IJC445-Yorkshire-structural-profile
-Analysing Yorkshire and The Humber's Economic, Industrial, and Human Capital Profile Relative to English LAs and Its Associations to Labour Productivity
+Analysing Yorkshire and The Humber's Economic, Industrial, and Human Capital Profile Relative to English LAs and Its Associations to Labour Productivity | IJC445 Data Visualisation Coursework.
 
 Overview
 -
