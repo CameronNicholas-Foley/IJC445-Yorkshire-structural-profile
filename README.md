@@ -47,4 +47,4 @@ https://github.com/CameronNicholas-Foley/IJC445-Yorkshire-structural-profile.git
 
 IJC437 Project Link
 -
-The associated IJC437 project coursework and outputs are available here: https://github.com/CameronNicholas-Foley/IJC437-digital-connectivity-local-employment-growth
+The associated IJC437 project coursework and outputs are available here: https://github.com/CameronNicholas-Foley/IJC437-digital-employment-growth
