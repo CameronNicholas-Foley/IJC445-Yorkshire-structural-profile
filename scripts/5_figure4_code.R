@@ -117,6 +117,8 @@ fig4_pca_model <- prcomp(fig4_matrix, scale. = TRUE)
 #-----------------------------------------------------------------------------------------------------------------
 
 #Figure 4: Structural Positioning of Yorkshire and The Humber Vs English Local Authorities (2021-2023)
+#NOTE: ggplot2 warning may appear regarding deprecated use of 'size' for lines
+#This does not affect the visualisation output.
 fig4_pca <- fviz_pca_biplot(fig4_pca_model, geom.ind ="point", pointshape = 21,
                             fill.ind = ifelse(fig4_data$region == "Yorkshire and The Humber", "Yorkshire and The Humber", 
                                               "English Local Authorities"),
@@ -144,4 +146,5 @@ fig4_pca <- fviz_pca_biplot(fig4_pca_model, geom.ind ="point", pointshape = 21,
 
 print(fig4_pca)
 ggsave("figure4_pca.png", plot = fig4_pca, path = "outputs", 
+
        height = 783, width = 978, units = "px", dpi = 96)
