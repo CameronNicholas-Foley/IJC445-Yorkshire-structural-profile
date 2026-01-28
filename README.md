@@ -53,7 +53,7 @@ https://github.com/CameronNicholas-Foley/IJC445-Yorkshire-structural-profile.git
 4. Open RStudio, select **File -> New Project -> Existing Directory.**
 5. Navigate to the extracted ZIP file until the `Outputs/`, `raw_data/`, and `scripts/` directories are visible.
 6. Click **Create Project**.
-7. Run `1_libraries_IJC445.R` and install the packages if required.
+7. Run `1_libraries_functions_IJC445.R` and install the packages if required.
 8. Execute the remaining scripts in the numerical order as labelled.
 9. Figures will be saved in the `outputs/` directory.  
 
