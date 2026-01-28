@@ -42,7 +42,7 @@ Instructions to Run Code
 https://github.com/CameronNicholas-Foley/IJC445-Yorkshire-structural-profile.git
 ```
 2. Open RStudio, set the cloned repository as the repository URL **(File -> New Project -> Version Control -> Git)**.
-3. Run `1_libraries_IJC445.R` and install the packages if required.
+3. Run `1_libraries_functions_IJC445.R`, install the packages if required, and exectute the required function.
 4. Execute the remaining scripts in the numerical order as labelled.
 5. Figures will be saved in the `outputs/` directory.
 
